@@ -1,4 +1,4 @@
-Indentation
+Code style
 ===
 
 Some suggestions for a simple way to approach code formatting, particularly when, how, and how much to indent.
