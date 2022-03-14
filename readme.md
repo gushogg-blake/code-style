@@ -6,7 +6,7 @@ Some suggestions for a simple way to approach code formatting, particularly when
 Use tabs by default
 ---
 
-Tabs are simpler (fewer characters) and more flexible (width can be set according to individual preference, even within the same project or team) than spaces, so it seems sensible to default to them unless there's a reason to use spaces.
+Tabs are simpler (fewer characters) and more flexible (width can be set according to individual preference) than spaces, so it seems sensible to default to them unless there's a reason to use spaces.
 
 One reason would be to align code to an arbitrary column, for example to have function arguments aligned like this:
 
