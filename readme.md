@@ -17,7 +17,7 @@ doSomething(a,
 
 ...but if the next suggestion is also followed, that doesn't come up:
 
-Multi-line constructions can all follow the same, extremely simple rule for indentation
+Multi-line constructions can all follow the same simple rule for indentation
 ---
 
 If something has opening and closing delimiters and becomes too long to put on one line, split it up like this:
